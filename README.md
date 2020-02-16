@@ -16,6 +16,10 @@ be tricky (how to match `"13 22 23"` but not `"2019 06"`?).
 
 Uses `stdout:` for output in `JSON` format.
 
+Inside `...\lpn-r` folder run:
+
+`python run-lpn.py`
+
 Docker image(use Linux containers?):
 
 `docker pull j11195k/lpn-r:latest`

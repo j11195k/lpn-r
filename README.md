@@ -1,6 +1,6 @@
 # Logo &amp; Phone Numbers Extractor
 
-Scrapy spider for fetching logo and phone numbers on websites.
+Scrapy spider for fetching logo and phone numbers from websites.
 
 Program requires `website.txt` file in root dir (one provided by default contains sample valid and invalid inputs). 
 
